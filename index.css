@@ -1,0 +1,54 @@
+body {
+    background: linear-gradient(112.1deg, rgb(32, 38, 57) 11.4%, rgb(63, 76, 119) 70.2%);
+    font-family: 'Source Sans 3', sans-serif;
+
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    margin-top: 200px;
+    font-size:110px;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    margin-top: 150px;
+    font-size:50px;
+}
+
+.transparent-navbar {
+    background-color: transparent;
+    padding-left: 30px; /* Add margin to the left */
+    padding-right: 30px; /* Add margin to the right */
+}
+.transparent-navbar .navbar-brand {
+    color: white;
+    font-size: 27px;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+.transparent-navbar .navbar-nav .nav-link {
+    color: white;
+    margin-right: 60px; /* Add spacing to the right of the links */
+    font-size: 27px;
+    margin-top: 20px;
+}
+.explore {
+    width: 500px;
+    height: 200px;
+    border: 10px solid #2196F3;
+    background-color: #f7f7f7;
+  }
+
+  .pCenter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+.marginRight {
+    margin-right: 50px;
+
+}
